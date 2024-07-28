@@ -1,0 +1,70 @@
+*{
+    margin: 0.5rem 1.3rem;
+}
+.about-img img{
+    width:45rem;
+}
+.about-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+    padding-bottom: 3.5rem;
+}
+
+.about-2 h1{
+    font-size: 4rem;
+}
+.about-2{
+    padding: 0 2rem;
+    text-align: justify;
+    gap: 1rem;
+    font-size: 1.6rem;
+}
+.about-3{
+    padding: 0 3.2rem 0 2rem;
+    text-align: justify;
+    gap: 1rem;
+    font-size: 1.6rem;
+    padding-bottom: 2rem ;
+}
+.about-4{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 1rem;
+    padding-bottom: 2rem;
+    
+}
+.about-5 h3{
+    font-size: 2.5rem;
+}
+.about-5 p{
+    color: rgb(110, 110, 110);
+}
+.about-5{
+    text-align: justify;
+    text-align: left;
+    gap: 1rem;
+    font-size: 1.6rem;
+}
+
+.about-6 h3{
+    font-size: 2.5rem;
+    padding: 0 2rem;
+}
+
+.about-6{
+    padding: 0 1rem;
+}
+.about-6 li {
+    font-size: 1.3rem ;
+}
+.about-6 ul {
+    padding: 0 0 0 4.5rem;
+}
+.about-6 p{
+    font-size: 1.3rem;
+    padding: 0 2rem;
+}
