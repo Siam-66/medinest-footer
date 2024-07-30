@@ -86,7 +86,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 1rem;
+    gap: 2rem;
     width: 100%;
     background-color: rgb(13, 46, 78) ;
     height: 13rem;
