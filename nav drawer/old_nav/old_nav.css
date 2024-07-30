@@ -24,9 +24,8 @@ section{
     width: 14rem;
     padding-left: 1rem;
     padding-top: 1rem;
-    /* padding: 1rem 7rem ; */
-    
 }
+
 .nev-btn-img img{
     width: 2rem;
 }
@@ -67,6 +66,8 @@ section{
 }
 .nev-op:hover{
     background-color: rgb(13, 46, 78);
+    border: 1px solid none;
+    border-radius: 1rem;
 }
 .nev-item> a:hover{
     color: white;
