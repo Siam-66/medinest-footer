@@ -1,0 +1,92 @@
+section{
+    margin: 0;
+    padding: 5rem;
+    background-color: rgb(44, 44, 44);
+    
+}
+.nev{
+    margin: 1rem 41rem;
+    background-color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 55rem;
+    
+}
+
+/* img here */
+.nev-pro img{
+    width: 18rem;
+    padding: 1rem  0;
+}
+
+.nev-img img{
+    width: 2rem;
+    
+}
+
+.nev-btn-img img{
+    width: 2.9rem;
+}
+
+
+/* img end */
+.nev-1{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items:  center;
+    padding-top: 0.5rem;
+}
+
+.nev-op{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    gap: .8rem;
+    background-color: white;
+    width: 23.5rem;
+    height: 5rem;
+    cursor: pointer;
+    /* border: 1px solid rgb(212, 212, 212); */
+}
+.nev-item a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 900;
+    color:rgb(13, 46, 78);
+    padding: 2.5rem 13rem 2.5rem 0 ;
+}
+.nev-item{
+    width: 20rem;
+}
+.nev-op:hover{
+    background-color: rgb(13, 46, 78);
+    border: 1px solid none;
+    border-radius: 1rem;
+    transform: scale(1.08);
+    transition: 0.5s;
+}
+.nev-item> a:hover{
+    color: white;
+    
+}
+/* log here */
+
+.nev-btn-log{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(13, 46, 78) ;
+    height: 10rem;
+}
+.nev-pro>img:hover{
+    transform: scale(1.08);
+    transition: 0.5s;
+}
+
+.logo{
+    display: flex;
+    flex-direction: column;
+}
