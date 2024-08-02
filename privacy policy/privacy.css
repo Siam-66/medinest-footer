@@ -1,0 +1,41 @@
+*{
+    margin: 0 ;
+}
+
+.policy-0{
+    /* height: 500rem; */
+    
+    color: rgb(0, 0, 0);
+}
+
+.policy-top{
+    text-align: center;
+    background-color: rgb(13, 46, 78);
+    color: white;
+    height: 12rem;
+    font-size: 4rem;
+    font-weight: 600;
+}
+.policy-top p{
+    padding:3.5rem 0;
+}
+.policy-main{
+    text-align: justify;
+    margin: 5rem 12rem;
+    color:rgb(0, 0, 0);
+}
+.policy-main p{
+    font-size: 1.3rem;
+    color: rgb(79, 80, 80);
+}
+.policy-main h4{
+    font-size: 1.6rem;
+}
+.policy-main ul{
+    font-size:1.3rem ;
+    padding-left: 4rem;
+}
+.policy-main li{
+    padding-bottom: 1rem;
+    
+}
