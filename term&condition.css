@@ -1,0 +1,42 @@
+*{
+    margin: 0 ;
+}
+
+.terms-0{
+    /* height: 500rem; */
+    
+    color: rgb(0, 0, 0);
+    /* background-color: black; */
+}
+
+.terms-top{
+    text-align: center;
+    background-color: rgb(13, 46, 78);
+    color: white;
+    height: 12rem;
+    font-size: 4rem;
+    font-weight: 600;
+}
+.terms-top p{
+    padding:3.5rem 0;
+}
+.terms-main{
+    text-align: justify;
+    margin: 5rem 12rem;
+    color:rgb(0, 0, 0);
+}
+.terms-main p{
+    font-size: 1.3rem;
+    color: rgb(79, 80, 80);
+}
+.terms-main h4{
+    font-size: 1.6rem;
+}
+.terms-main ul{
+    font-size:1.3rem ;
+    padding-left: 4rem;
+}
+.terms-main li{
+    padding-bottom: 1rem;
+    
+}
